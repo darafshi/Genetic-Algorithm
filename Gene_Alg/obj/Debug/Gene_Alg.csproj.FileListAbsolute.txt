@@ -1,0 +1,54 @@
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\bin\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\bin\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\obj\Debug\Gene_Alg.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\obj\Debug\Gene_Alg.Form1.resources
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\obj\Debug\Gene_Alg.Properties.Resources.resources
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\obj\Debug\Gene_Alg.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\obj\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\Gene_Alg\Gene_Alg\obj\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\obj\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\obj\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\bin\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\bin\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\obj\Debug\Gene_Alg.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\obj\Debug\Gene_Alg.Form1.resources
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\obj\Debug\Gene_Alg.Properties.Resources.resources
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI-TA\article\PiadehSazi\Gene_Alg\obj\Debug\Gene_Alg.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\ga2\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+C:\Users\alireza\Desktop\ga2\Gene_Alg\obj\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\ga2\Gene_Alg\obj\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\ga2\Gene_Alg\bin\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\ga2\Gene_Alg\bin\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\ga2\Gene_Alg\obj\Debug\Gene_Alg.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\ga2\Gene_Alg\obj\Debug\Gene_Alg.Form1.resources
+C:\Users\alireza\Desktop\ga2\Gene_Alg\obj\Debug\Gene_Alg.Properties.Resources.resources
+C:\Users\alireza\Desktop\ga2\Gene_Alg\obj\Debug\Gene_Alg.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\GA_Algorithm_class_sample\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\GA_Algorithm_class_sample\Gene_Alg\obj\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\amirkabir university 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\GA_Algorithm_class_sample\Gene_Alg\obj\Debug\Gene_Alg.pdb
+E:\amirkabir university 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\GA_Algorithm_class_sample\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+E:\amirkabir university 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\GA_Algorithm_class_sample\Gene_Alg\obj\Debug\Gene_Alg.exe
+E:\amirkabir university 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\GA_Algorithm_class_sample\Gene_Alg\obj\Debug\Gene_Alg.pdb
+E:\AUT 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+E:\AUT 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\Gene_Alg\obj\Debug\Gene_Alg.exe
+E:\AUT 92212543\term1\AI\AI TA\GA Algorithm_class sample\GA_Algorithm_class_sample_BEHBOODYAFTEH\Gene_Alg\obj\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.pdb
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.Form1.resources
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.Properties.Resources.resources
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\bin\Debug\Gene_Alg.exe
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg\bin\Debug\Gene_Alg.pdb
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\bin\Debug\Gene_Alg.exe.config
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.exe
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.pdb
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\bin\Debug\Gene_Alg.exe
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\bin\Debug\Gene_Alg.pdb
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.csprojResolveAssemblyReference.cache
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.Form1.resources
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.Properties.Resources.resources
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg\obj\Debug\Gene_Alg.csproj.GenerateResource.Cache

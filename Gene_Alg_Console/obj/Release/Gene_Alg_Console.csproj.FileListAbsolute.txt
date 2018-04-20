@@ -1,0 +1,5 @@
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\bin\Release\Gene_Alg_Console.exe.config
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\bin\Release\Gene_Alg_Console.exe
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\bin\Release\Gene_Alg_Console.pdb
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\obj\Release\Gene_Alg_Console.exe
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\obj\Release\Gene_Alg_Console.pdb

@@ -1,0 +1,12 @@
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\bin\Debug\Gene_Alg_Console.exe.config
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\bin\Debug\Gene_Alg_Console.exe
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\bin\Debug\Gene_Alg_Console.pdb
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\obj\Debug\Gene_Alg_Console.exe
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\obj\Debug\Gene_Alg_Console.pdb
+C:\Users\alireza\Desktop\LAST FOLDER 1394-07-01\now\issue 3 - easy GA\Gene_Alg_Console\obj\Debug\Gene_Alg_Console.csprojResolveAssemblyReference.cache
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg_Console\bin\Debug\Gene_Alg_Console.exe.config
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg_Console\obj\Debug\Gene_Alg_Console.exe
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg_Console\obj\Debug\Gene_Alg_Console.pdb
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg_Console\bin\Debug\Gene_Alg_Console.exe
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg_Console\bin\Debug\Gene_Alg_Console.pdb
+H:\__امور جاری\LAST FOLDER\issue 3 - easy GA\Gene_Alg_Console\obj\Debug\Gene_Alg_Console.csprojResolveAssemblyReference.cache
